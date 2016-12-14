@@ -2,8 +2,10 @@
     AdvancesDataScience
 
 
+
 Team Members
 
-    Qiaomin Ling
-    Jianxing Lu
-    Wenjin Cao
+
+        Qiaomin Ling
+        Jianxing Lu
+        Wenjin Cao
