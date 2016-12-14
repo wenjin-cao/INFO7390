@@ -1,11 +1,9 @@
-# INFO7390
-    AdvancesDataScience
+INFO7390
 
-
+        AdvancesDataScience
 
 Team Members
 
-
-        Qiaomin Ling
+        Qiaomin Ling
         Jianxing Lu
         Wenjin Cao
